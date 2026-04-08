@@ -12,5 +12,6 @@ jobs:
         with:
           asoc_key: ${{secrets.ASOC_KEY}}
           asoc_secret: ${{secrets.ASOC_SECRET}}
-          application_id: 3a080c03-ef8c-479a-8028-cd126b21f60b
-          service_url: https://staging.appscan.internal
+          application_id: 3adc8506-37ad-49e6-8a92-5266d1a568a8
+          service_url: https://blmycldtl399161.nonprod.hclpnp.com
+          acceptssl: true
