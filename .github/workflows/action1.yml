@@ -13,3 +13,4 @@ jobs:
           asoc_key: ${{secrets.ASOC_KEY}}
           asoc_secret: ${{secrets.ASOC_SECRET}}
           application_id: 3a080c03-ef8c-479a-8028-cd126b21f60b
+          service_url: https://staging.appscan.internal
