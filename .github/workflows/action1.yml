@@ -12,6 +12,4 @@ jobs:
         with:
           asoc_key: ${{secrets.ASOC_KEY}}
           asoc_secret: ${{secrets.ASOC_SECRET}}
-          application_id: 3adc8506-37ad-49e6-8a92-5266d1a568a8
-          service_url: https://blmycldtl399161.nonprod.hclpnp.com
-          acceptssl: true
+          application_id: 9d22e58f-89d7-4678-b296-07c933585e0e
