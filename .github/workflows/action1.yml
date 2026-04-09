@@ -15,6 +15,4 @@ jobs:
           application_id: 9d22e58f-89d7-4678-b296-07c933585e0e
           scan_name: altorojActionTest
           personal_scan: true
-          static_analysis_only: true
-          wait_for_analysis: true
-          analysis_timeout_minutes: 1 minute
+          secrets_only: true
